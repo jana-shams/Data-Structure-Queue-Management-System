@@ -2,6 +2,10 @@
 
 Deployment: https://queuesystemm.web.app/
 
+
+![image](https://github.com/user-attachments/assets/0792c28e-ce68-412e-906b-610651f07a54)
+
+
 ## Overview
 
 This project implements a priority-based Multi-Level Queue (MLQ) system in C++. The queue is used to simulate a real-world service scenario such as a bank, where individuals are served based on their priority level determined by emergency status, service type, and waiting time.
